@@ -26,7 +26,7 @@ To lead the way for those who follow,
 To advance unceasingly, until they reach the ultimate destination of knowledge—
 The horizon of truth.
 
-#1 The Agent developed on the basis of InternLM2, an open source model of Shushengpu language community, is mainly used to assist the teaching of university education
-#2 初步预期：根据指定授课主题，自动化生成教案和备课大纲，高效创建教学内容
-#1 目前，暂时在InternmLM1.8B模型上利用上海交通大学的相关问答数据集，使用XTuner微调为具备上海交大知识的问答助手
+# The Agent developed on the basis of InternLM2, an open source model of Shushengpu language community, is mainly used to assist the teaching of university education
+# 初步预期：根据指定授课主题，自动化生成教案和备课大纲，高效创建教学内容
+# 目前，暂时在InternmLM1.8B模型上利用上海交通大学的相关问答数据集，使用XTuner微调为具备上海交大知识的问答助手
 
