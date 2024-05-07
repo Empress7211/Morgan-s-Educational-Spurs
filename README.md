@@ -27,5 +27,5 @@ In this scholarly wilderness, Arthur has found a new purpose, a new mission:
 To lead the way for those who follow,
 To advance unceasingly, until they reach the ultimate destination of knowledge—
 The horizon of truth.
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 目前，暂时在InternmLM1.8B模型上利用上海交通大学的相关问答数据集，使用XTuner微调为具备上海交大知识的问答助手
